@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Hyungjoon Jin majoring in Space Science and Astronomy in Bachelor degrees in Korea 
+I'm Hyungjoon Jin majoring in Computer Science in Bachelor degrees in Korea 
 I welcome any of you guys to suggest ideas of what I upload here Thank you for visiting !
 <!--
 **joonyjin/joonyjin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
